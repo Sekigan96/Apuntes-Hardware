@@ -1,3 +1,5 @@
+Iván Pérez Blanco
+
 **MBR:**
 
 El MBR de normal se utiliza para arrancar sistemas operativos con Bootstrap pero también se puede utilizar para almacenar una tabla de particiones.
