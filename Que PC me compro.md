@@ -41,7 +41,7 @@
 También tiene 2 ventiladores y va con bus PCI Express 3.0
 
 
-**Disc dur SSD:** Toshiba OCZ TR200 SSD 240GB SATA3 **(47€)**
+**Disco duro SSD:** Toshiba OCZ TR200 SSD 240GB SATA3 **(47€)**
 
 - He decidido añadir un disco duro solido para instalar el sistema operativo y los programas que mas se vayan a utilizar.
 Este disco duro tiene 240GB, tiene una velocidad de lectura de 555 MBps i 540 de escritura secuencia.
